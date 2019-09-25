@@ -31,7 +31,6 @@
 ```
 
 ### 相关技术：
-
 * vuejs2.0：一套构建用户界面的渐进式框架，易用、灵活、高效。
 * element-ui：一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库。
 * vue-router：官方的路由组件，配合vue.js创建单页应用（SPA）非常简单。
@@ -39,13 +38,13 @@
 
 ## 项目编译和运行
 
+```
 第一步： 先安装node环境，注意NodeJS版本要求为Node.js 10.x
 
 第二步：下载项目
 可以直接在git上下载项目源码或者通过git命令下载
 #git命令下载
 git clone https://github.com/lmk1566/Thiea.git
-  
   
 第三步：运行(以Windows 10为例)
 （1）新开一个命令行窗口
@@ -54,10 +53,10 @@ git clone https://github.com/lmk1566/Thiea.git
   > npm install
 （3）依赖安装成功后执行启动命令
   > npm run dev
-  # 显示如下内容说明本地启动成功
-  # DONE Compiled successfully in 7515ms
-  # Listening at http://localhost:8081
-   
-   
+ # 显示如下内容说明本地启动成功
+ # DONE Compiled successfully in 7515ms
+ # Listening at http://localhost:8081
+ 
 #正式环境编译命令
 npm run build
+```

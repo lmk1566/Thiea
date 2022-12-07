@@ -17,7 +17,7 @@
     "element-ui": "^2.4.1",
     "file-saver": "^2.0.2",
     "lodash": "^4.17.4",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "script-loader": "^0.7.2",
     "vue": "^2.5.9",
     "vue-element-extends": "^1.2.20",
